@@ -1,3 +1,4 @@
+#git commands
 git add first
 git commit -m "first commit"
 git status
