@@ -3,3 +3,5 @@ git add first
 git commit -m "first commit"
 git status
 git push origin master
+git diff HEAD HEAD~1
+git branch displays the number of branches and * indicates the active branch
